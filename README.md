@@ -8,4 +8,7 @@ in app config include connection string as
   } 
   Used postgresql for Entity framework and used Code first approach
   
-  
+  Added attachment in Innoloft_Response Folder
+  added postman collection
+  Note:
+  for testing singin as new user and login since i have included authentication service for users
